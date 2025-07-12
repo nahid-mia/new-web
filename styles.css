@@ -76,3 +76,69 @@
     font-size: 20px;
     color: gray;
 }
+
+#feedback{
+    font-size: xx-large;
+    font-style: bold;
+    text-align: center;
+
+}
+
+.first_box{
+    border: 50px;
+    background: whitesmoke;
+    margin: 50px 50px 50px 50px;
+    padding: 20px;
+    display: block;
+    border-radius: 5%;
+}
+
+.second_box{
+    border: 50px;
+    background: whitesmoke;
+    margin: 50px 50px 50px 50px;
+    padding: 20px;
+    display: block;
+    border-radius: 5%;
+}
+
+.third_box{
+    border: 50px;
+    background: whitesmoke;
+    margin: 50px 50px 50px 50px;
+    padding: 20px;
+    display: block;
+    border-radius: 5%;
+
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 90px;
+}
+
+#ready{
+    text-align: center;
+}
+
+#detail{
+    text-align: center;
+    color: gray;
+}
+
+#free{
+    padding: 10px;
+    background-color: blue;
+    text-decoration: white;
+    color: white;
+    text-align: center;
+    border-radius: 5%;
+}    
+
+.ready_to{
+    text-align: center;
+}    
+
+#image{
+    border-radius: 5%;
+}
