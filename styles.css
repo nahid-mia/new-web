@@ -1,0 +1,25 @@
+.navbar, .first{
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+    background-image: url('Assets/Hero-bg.png');
+    background-size: cover;
+}
+
+.choto{
+    color: white;
+    background-color: rgba(0, 26, 255, 0.952);
+}
+
+.first{
+    justify-content: center;
+    }
+
+#page{
+    margin: auto;
+    font-size: 50px;
+}
+#page_end{
+    text-shadow: 5px cadetblue;
+    text-align: center;
+}
