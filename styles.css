@@ -10,6 +10,10 @@
     color: white;
     background-color: rgba(0, 26, 255, 0.952);
     border-radius: 10%;
+    text-decoration: none;
+}
+.choto a{
+    text-decoration: none;
 }
 
 .first{
@@ -141,4 +145,43 @@
 
 #image{
     border-radius: 5%;
+}
+
+.form{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+
+#touch{
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 30px grey;
+    padding-left: 100px;
+    color: cadetblue;
+}
+
+#last{
+    padding-right: 20px;
+    padding-top: 60px;
+    padding-left: 60px;
+}
+
+.ending{
+    text-align: center;
+    padding: 10px 500px 50px 500px;
+}
+
+#end{
+    font-size: 80px;
+    color: blue;
+}
+
+#grey{
+    color: grey;
+}
+
+.notun a{
+    text-decoration: none;
+    color:blue;
 }

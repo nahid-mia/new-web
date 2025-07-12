@@ -1,0 +1,19 @@
+nav ul {
+    display: flex;
+    text-align: center;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 20px;
+    text-align: center;
+}
+
+nav li a{
+    text-decoration: none;
+    padding-left: 110px;
+}
+
+nav li:hover{
+    background-color: lightslategray;
+}
